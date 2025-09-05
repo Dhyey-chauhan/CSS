@@ -4,3 +4,7 @@
 # chapter -1 
 -- Learned the basics of CSS including color properties, text styling, and units for element sizing. <br>
 -- Learned CSS basics including colors, text styling, units, selectors, and pseudo-classes.
+<br>
+
+# chapter -2
+-- CSS Box Model including margin, border, padding, and content.

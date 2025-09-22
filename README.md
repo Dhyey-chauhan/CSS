@@ -13,5 +13,9 @@
 A simple project showcasing CSS transitions, transforms, opacity, and background effects with practical examples.  
 
 # chapter -4 CSS Flexbox Layout Demo  
-A simple project demonstrating flexbox properties like alignment, justification, wrapping, and flex-grow.  
+A simple project demonstrating flexbox properties like alignment, justification, wrapping, and flex-grow.
+
+# chapter - 5 CSS Grid Layout Demo  
+A project showcasing CSS Grid properties like rows, columns, gaps, alignment, and item placement.  
+
 
